@@ -13,8 +13,8 @@
 # limitations under the License.
 
 
-project       = "example"
+project       = "FederatedUser"
 creator_email = "vvchaturyakorla@gmail.com"
 owner_email   = "vvchaturyakorla@gmail.com"
-namespace     = "example"
+namespace     = "xc3team14"
 region        = "ap-southeast-2"
