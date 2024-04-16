@@ -13,8 +13,9 @@
 # limitations under the License.
 
 
-project       = "FederatedUser"
+project       = "feduser"
 creator_email = "vvchaturyakorla@gmail.com"
 owner_email   = "vvchaturyakorla@gmail.com"
-namespace     = "xc3team14"
+namespace     = "feduser"
 region        = "ap-southeast-2"
+

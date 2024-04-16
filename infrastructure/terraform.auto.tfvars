@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-namespace      = "xc3team14"
+namespace      = "feduser"
 env            = "dev"
 region         = "ap-southeast-2"
 account_id     = "590184046215"
@@ -38,7 +38,7 @@ total_account_cost_cronjob  = "cron(0 0 1,15 * ? *)"     // flexible can be set 
 prometheus_layer            = "lambda_layers/python.zip" // s3 key for lambda layer
 memory_size                 = 128
 timeout                     = 300
-project                     = "FederatedUser"
+project                     = "feduser"
 create_cloudtrail_kms       = false
 create_cloudtrail           = false
 create_cloudtrail_s3_bucket = false
